@@ -1,0 +1,12 @@
+@import url(minimal.css);
+@import url(pygment_trac.css);
+header img.me { border-radius: 50%; border: 1px solid #f2f3f3; display: block; margin: 10px auto 30px; max-width: 140px; padding: 5px; transition: all 0.2s ease-in-out; }
+
+@media print, screen and (max-width: 480px) { header li, header ul li + li + li { width: auto; } }
+header ul.icons { list-style: none; padding: 0; text-align: center; }
+header ul.icons li { display: inline-block; margin: 10px; }
+header ul.icons li a { color: gray; font-size: 20px; }
+
+table.posts { margin-top: 50px; }
+table.posts td { border-bottom: 1px solid white; padding-left: 0; }
+table.posts td a { color: #222; font-size: 20px; }

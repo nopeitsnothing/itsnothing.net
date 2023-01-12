@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!-- This site was last updated at {{ site.time | date_to_rfc822 }} -->
+<html>
+  {% include head.html %}
+
+  <body>
+
+    <div class="wrapper">
+      {% include header.html %}
+      <section>
+        {{ content }}
+      </section>
+      {% include footer.html %}
+  </body>
+</html>

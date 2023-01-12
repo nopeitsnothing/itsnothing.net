@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sharp-tailed.github.io</title>
+    <description>itsnothing.net blog</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Jan 2023 01:24:56 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2023 01:24:56 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>On MSPs</title>
+        <description>&lt;p&gt;First, let’s note a couple things about them:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;paid to secure &lt;em&gt;your&lt;/em&gt; infrastructure - can’t even secure &lt;em&gt;their&lt;/em&gt; infrastructure a majority of the time&lt;/li&gt;
+  &lt;li&gt;account for majority of large-scale attacks on FVEY by foreign gov&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So can they really be trusted with our nation’s infrastructure?&lt;/p&gt;
+
+&lt;h3 id=&quot;cold-hard-facts-produce-cold-hard-cash&quot;&gt;Cold hard facts produce cold hard cash&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2677750/nsa-partners-release-cybersecurity-advisory-on-brute-force-global-cyber-campaign/&quot;&gt;GRU is performing brute force attacks since mid-2019&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;incredibly easy to brute force &lt;em&gt;en mass&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Russian General Staff Main Intelligence Directorate(GRU) 85&lt;sup&gt;th&lt;/sup&gt;
+Main Special Service Center (GTsSS)
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF&quot;&gt;GRU Conducting Global Brute Force Campaign&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncsc.gov.uk/news/microsoft-update-brute-force-password-spraying&quot;&gt;Microsoft advisory - NOBELIUM&lt;/a&gt;
+(pt 1)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/&quot;&gt;Microsoft blog - NOBELIUM APT&lt;/a&gt; (pt 2)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncsc.gov.uk/guidance/phishing&quot;&gt;Phishing is such a massive revenue generator, it’s used against MSPs&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.ncsc.gov.uk/files/phishing_case_study.pdf&quot;&gt;Case study&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;msps-dont-use-basic-domain-protections&quot;&gt;MSPs don’t use basic domain protections:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;multi-layer security/restriction approach involving people and processes
+   (&lt;a href=&quot;2022.0727.2129&quot;&gt;OSI Model&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;SSO (application and network layer)&lt;/li&gt;
+  &lt;li&gt;a requirements engineering process [Zowghi2000ARE] [Faroom2019]&lt;/li&gt;
+  &lt;li&gt;SPF and DMARC (e-mail threats)&lt;/li&gt;
+  &lt;li&gt;network segregation&lt;/li&gt;
+  &lt;li&gt;least privilege&lt;/li&gt;
+  &lt;li&gt;depreciate obsolete accounts and processes&lt;/li&gt;
+  &lt;li&gt;maintenance and updates regularly&lt;/li&gt;
+  &lt;li&gt;rolling backups on-prem and in the cloud&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Mandatory Access Controls&lt;/em&gt; (SELinux, SSO, network permissions)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These truly are basic fundamentals of security and should be utilized at the
+bare minimum by companies paid to protect the infrastructure and systems (e.g.,
+applications and controllers) of SMB’s and large companies. But they’re just
+not. Why?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/08/02/on-MSPs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/08/02/on-MSPs.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OSI Model</title>
+        <description>&lt;p&gt;&lt;strong&gt;Please Do Not Throw Sausage Pizza Away&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Physical - data, cables, cat6&lt;/li&gt;
+  &lt;li&gt;Data - Switching. MAC addresses&lt;/li&gt;
+  &lt;li&gt;Network - IP addresses, routing&lt;/li&gt;
+  &lt;li&gt;Transport - TCP/UDP&lt;/li&gt;
+  &lt;li&gt;Session - session management&lt;/li&gt;
+  &lt;li&gt;Presentation - WMV, JPEG, MOV (media)&lt;/li&gt;
+  &lt;li&gt;Application - HTTP, SMTP, etc.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 27 Jul 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/07/27/OSI-model.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/07/27/OSI-model.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Windows 11</title>
+        <description>&lt;p&gt;Windows 11 is trying to take away your autonomy by imposing lockdown and -
+while this may not be new - it has evolved slowly into a monopoly over your
+data. Now you are locked into their services; &lt;em&gt;their&lt;/em&gt; cloud, &lt;em&gt;their&lt;/em&gt;
+software, &lt;em&gt;their&lt;/em&gt; hardware modules. They have been boiling you slowly in a
+pot for so long, you are becoming comfortable with it, and even, in some
+extreme cases, you are &lt;strong&gt;forced&lt;/strong&gt; to get into the water.&lt;/p&gt;
+
+&lt;p&gt;If you want encryption and you’re not tech savvy, you’re forced to use Windows’ 
+encryption software (Bitlocker). If you want to save your data but aren’t
+tech savvy, you likely turn to easy solutions like this because it’s what is
+shipped in Windows Home. The average consumer is very forcibly “asked” to use
+their software and hardware in order to keep you so walled in that you can’t
+function without them. It’s very hard, as with Google and its parent company
+Alphabet, to switch out of this mindset.&lt;/p&gt;
+
+&lt;p&gt;It’s a prison but you can break free.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/07/01/Windows-11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/07/01/Windows-11.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>I tried many things, but..</title>
+        <description>&lt;p&gt;I find that &lt;a href=&quot;https://www.zettlr.com/&quot;&gt;Zettlr&lt;/a&gt; [&lt;em&gt;ˈset·lər&lt;/em&gt;] and &lt;a href=&quot;https://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt; make my life easier. I
+have used it to make bibliographies with several papers now, all while
+keeping a digital &lt;a href=&quot;https://wikiless.org/wiki/Zettelkasten&quot;&gt;Zettelkasten&lt;/a&gt;. It just requires knowledge of Markdown
+syntax and how to use Zettlr for note-taking. The best part is how easy it
+is.&lt;/p&gt;
+
+&lt;p&gt;You just need to download the extension for Zotero which is what you will be
+using to create citations – without having to install plugins on the website.
+You simply open Zotero, create a “Collection”, then you add references as you
+browse. If you go to a link in your browser and click the “Save to Zotero”
+button for the extension (it’s available for both Firefox and Chrome/Chromium
+browsers), you can save multiple references in your Collection. This allows
+you to, when done, simply export to a bibliography in various formats. It
+makes note-taking a breeze and it improves your ability to read without
+having to stop so often to manually write up your references and lookup
+things. There is a very handy setting in Zotero that allows to import all
+metadata for a certain DOI or arxiv number, just by pasting the number into
+the “Add Item(s) by Identifier” button. It pulls all the information for you
+in a second. No more manual references. The only thing is you will have to
+manually set the reference pointers like I have done in this post. Numbering
+and setting the #refs themselves is pretty easy, just create a numbered list
+in the markdown editor or your IDE.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/06/13/zettling-in.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/13/zettling-in.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What exactly does Windows collect on you? Well..</title>
+        <description>&lt;p&gt;&lt;strong&gt;Just from one angle, the Bluetooth and Wi-Fi?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Geo-location via Wi-Fi &amp;amp; Bluetooth: Whether it is Android, iOS, Windows,
+macOS, or even Ubuntu. Most popular Operating Systems now collect telemetry
+information by default even if you never opt-in or opted-out from the start.
+Some like Windows will not even allow disabling telemetry completely without
+some technical tweaks. This information collection can be extensive and
+include a staggering number of details (metadata and data) on your devices
+and their usage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Itemized lists&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/windows/privacy/required-windows-diagnostic-data-events-and-fields-2004&quot;&gt;Full list of required diagnostic data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/windows/privacy/windows-diagnostic-data&quot;&gt;Full list of optional diagnostic data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Mitigation:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;W10Privacy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Download and install &lt;a href=&quot;https://www.w10privacy.de/english-home/&quot;&gt;W10Privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Right-click&lt;/strong&gt; &amp;gt; &lt;strong&gt;Run as administrator&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Check all the recommended (Green) settings and save.&lt;/li&gt;
+  &lt;li&gt;Optional but recommended (but could break things, use at your own risk), also
+check the orange/red settings, and save.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reboot&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;WindowsSpyBlocker:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Download and run &lt;a href=&quot;https://crazymax.dev/WindowsSpyBlocker/download/&quot;&gt;WindowsSpyBlocker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Type &lt;strong&gt;1&lt;/strong&gt; and go into &lt;strong&gt;Telemetry&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Type &lt;strong&gt;1&lt;/strong&gt; and go into &lt;strong&gt;Firewall&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Type &lt;strong&gt;2&lt;/strong&gt; and add &lt;strong&gt;Spy Rules&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reboot&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Also, consider using O&amp;amp;O ShutUp10++:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Download and run &lt;a href=&quot;https://www.oo-software.com/en/shutup10&quot;&gt;O&amp;amp;O ShutUp10++&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Enable &lt;em&gt;at least&lt;/em&gt; all of the recommended settings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Settings&lt;/strong&gt; &amp;gt; &lt;strong&gt;Privacy&lt;/strong&gt; &amp;gt; &lt;strong&gt;Diagnostic&lt;/strong&gt; &amp;gt; &lt;strong&gt;Delete all Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You will need to update and re-run W10Privacy and WindowsSpyBlocker frequently
+ and after any Windows update as they tend to silently re-enable telemetry using
+ those updates.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a bonus, it could be interesting to also consider
+&lt;a href=&quot;https://github.com/beerisgood/windows10_hardening&quot;&gt;hardening your Windows host&lt;/a&gt;.
+(This is a security guide, not a privacy guide.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://anonymousplanet-ng.org/&quot;&gt;The Hitchhiker’s Guide to Online Anonymity&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Disclaimer: I am a maintainer.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/06/12/what-windows-does-with-all-your-data.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/12/what-windows-does-with-all-your-data.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Take back control of your data</title>
+        <description>&lt;h3 id=&quot;steps&quot;&gt;Steps:&lt;/h3&gt;
+
+&lt;p&gt;Embrace a zero trust model.
+Don’t rely on reactive security practices.
+Never trust. Always verify.
+Never put all your eggs into one basket.&lt;/p&gt;
+
+&lt;p&gt;These are ~3 things you should absolutely be doing:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Better passwords:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;go change them all, &lt;strong&gt;seriously, right now!&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;use strong/non-unique passwords (&lt;a href=&quot;https://github.com/grempe/diceware&quot;&gt;diceware&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;never mix or reuse them across services/accounts&lt;/li&gt;
+  &lt;li&gt;use a password manager (preferably offline, like KeePassXC)&lt;/li&gt;
+  &lt;li&gt;avoid sharing passwords and use something that notifies you of breaches
+(but don’t rely solely on reactive security)&lt;/li&gt;
+  &lt;li&gt;enable 2FA/MFA, possibly use hardware keys/tokens&lt;/li&gt;
+  &lt;li&gt;backup everything just in case&lt;/li&gt;
+  &lt;li&gt;update your OS with security updates and employ active IDS/IPS (it’s not as
+hard as it sounds)&lt;/li&gt;
+  &lt;li&gt;disable and/or avoid telemetry from your OS, browser and IoT devices&lt;/li&gt;
+  &lt;li&gt;don’t use browser storage for sensitive info including passwords&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Better browsing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;block ads at the host level (Pi-hole, DNSSEC/DNSCRYPT, /etc/hosts, router VPN)&lt;/li&gt;
+  &lt;li&gt;uBlock Origin, LibRedirect, Smart Referrer&lt;/li&gt;
+  &lt;li&gt;ensure website integrity (in Tor, you can verify a site’s /mirrors.txt)&lt;/li&gt;
+  &lt;li&gt;use a private search engine (SearXNG, DuckDuckGo, Brave)&lt;/li&gt;
+  &lt;li&gt;don’t use unnecessary extensions (cf.
+&lt;a href=&quot;https://github.com/arkenfox/user.js/wiki/4.1-Extensions#-dont-bother&quot;&gt;https://github.com/arkenfox/user.js/wiki/4.1-Extensions&lt;/a&gt;) -
+useless bullshit&lt;/li&gt;
+  &lt;li&gt;use HTTPS (default in your regular browser usually)&lt;/li&gt;
+  &lt;li&gt;DNS over HTTPS (DOH)&lt;/li&gt;
+  &lt;li&gt;containerize and/or sanitize browsing in-between sessions, 
+(again, Arkenfox/user.js)&lt;/li&gt;
+  &lt;li&gt;minimize your footprint/fingerprint (Firefox FRP)&lt;/li&gt;
+  &lt;li&gt;plain-text emails only, question all attachments from all sources&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Practice your OPSEC:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;don’t login on another person’s device and use privacy shields if you can&lt;/li&gt;
+  &lt;li&gt;avoid password hints or use answers that have nothing to do with them
+(confuse the enemy :))&lt;/li&gt;
+  &lt;li&gt;don’t use a 4-digit pin for your devices, use a strong password&lt;/li&gt;
+  &lt;li&gt;minimize or eliminate the SMS 2FA for services to avoid SIM swaps&lt;/li&gt;
+  &lt;li&gt;avoid using your password manager for OTP&lt;/li&gt;
+  &lt;li&gt;avoid face and biometric unlocks&lt;/li&gt;
+  &lt;li&gt;never reuse usernames&lt;/li&gt;
+  &lt;li&gt;use a mail forwarding service to combat spam (and further confuse the enemy)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Lissy93/personal-security-checklist&quot;&gt;personal security checklist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/06/12/take-back-control.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/12/take-back-control.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Removing microdots from printed documents</title>
+        <description>&lt;p&gt;Anonymize your documents by removing metadata and ensure you don’t have any
+identifying marks embedded.&lt;/p&gt;
+
+&lt;p&gt;For hundreds of years, paper and printing techniques are the foundation for
+distribution of information. Thereby, physical documents enjoy high
+confidence. To have something in “black and white” carries significance. But
+forgery or alteration of documents are nearly as old as the history of
+writing. Hence the question for the originator is important. Nowadays,
+because of continual technological development, even individuals can print
+high-quality documents and duplicates. This can be done with cheap and
+customary devices. In addition image processing software, like GIMP or Adobe
+Photoshop, allows to manipulate documents and images easily. Therefore
+printed documents are often an issue in crimes, e.g. faked proof of identity,
+copyright theft, or as exhibit in a criminal case. In all this cases it could
+be useful for law enforcement agencies to, e.g., identify the device or model
+which was used to print the questionable document.&lt;/p&gt;
+
+&lt;p&gt;The primary focus of the research lies on the extraction of artifacts, which
+are originated from the print process. These artifacts emerge particularly
+through electromechanical imperfections and also through differences between
+constructions of printer models. We try to find and analyze artifacts which
+are stable and e.g. model specific and therefore usable as intrinsic
+signatures for a specific printer model. The extraction of these signatures
+should be conducted with customary scanner devices and image processing
+techniques. Simultaneously, the company Dence (cooperation partner) will
+investigate the scanner forensics.&lt;/p&gt;
+
+&lt;p&gt;The second part of the project deals with research of print-scan resilient
+checks of duplicates. Here the knowledge about artifacts which occur in the
+print and scan process represent a reliable basis. As use case the typical
+workflow in an insurance can be mentioned. In the event of damage, the
+insured person would take a photo of the damage and send it postal, together
+with forms, to the insurance. Afterwards the insurance will scan these
+documents. The insurance staff examines the event of damage on the basis of
+the digital reproduction. Because of the print and scan processes, which the
+original document went through, the question of authenticity of the document
+is difficulty to answer. Goal of the analysis is the implementation of an
+image search for duplicates, which is resilient against the print and scan
+process. This means, that images can also be matched, if only printed and
+re-digitized versions are available. The duplicate testing must be able to
+check an image immediately against a data pool with millions of images. From
+technical view, this will be realized with a distinct image hash. The
+challenge for the print-scan scenario is the computation of this hash. The
+hash value has to be equal or very similar between the original photo and the
+printed and re-digitized image, so that they can matched. Another difficulty
+is a working check for duplicates also with slight manipulations in the
+image (like a car scratch). All of this must be accomplished without matching
+false positives.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;https://dfd.inf.tu-dresden.de/&lt;/li&gt;
+  &lt;li&gt;https://github.com/dfd-tud/deda&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/06/09/microdots-and-nuking-them.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/09/microdots-and-nuking-them.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Telegram is Giving Data to German Feds in Certain Cases</title>
+        <description>&lt;p&gt;Telegram has provided the German Federal Criminal Police Office with user
+information in several cases, contradicting the company’s statements about
+complying with law enforcement.&lt;/p&gt;
+
+&lt;p&gt;Telegram, which is not an encrypted messaging application by default, released
+user data to the Federal Criminal Police Office (BKA) in several cases,
+according to &lt;a href=&quot;https://web.archive.org/web/20220605102156/https://www.spiegel.de/netzwelt/apps/telegram-gibt-nutzerdaten-an-das-bundeskriminalamt-a-0e4d3fcb-8081-4b87-b062-db412bbc294b&quot; title=&quot;Telegram hält sich neuerdings an Gesetze, zumindest ein bisschen&quot;&gt;a report from Spiegel&lt;/a&gt;. According
+to the news outlet, Telegram handed over subscriber information for the suspects
+in “child abuse and terrorism” investigations.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20220605091308/https://telegram.org/faq#q-what-are-your-thoughts-on-internet-privacy&quot; title=&quot;Telegram FAQ&quot;&gt;The company claims&lt;/a&gt; that they have disclosed “0 bytes of user data” to law
+enforcement:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Do you process data requests?
+“Secret chats use end-to-end encryption, thanks to which we don’t have any
+data to disclose.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“To protect the data that is not covered by end-to-end encryption, Telegram
+uses a distributed infrastructure. Cloud chat data is stored in multiple data
+centers around the globe that are controlled by different legal entities spread
+across different jurisdictions. The relevant decryption keys are split into
+parts and are never kept in the same place as the data they protect. As a
+result, several court orders from different jurisdictions are required to force
+us to give up any data.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Thanks to this structure, we can ensure that no single government or block of
+like-minded countries can intrude on people’s privacy and freedom of expression.
+Telegram can be forced to give up data only if an issue is grave and universal
+enough to pass the scrutiny of several different legal systems around the world.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“&lt;strong&gt;To this day, we have disclosed 0 bytes of user data to third parties,
+including governments.&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://darknetlive.com/post/telegram-handing-data-over-to-german-feds/images/rq.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;According to Spiegel, “it is still difficult for German investigators to
+obtain information from Telegram” when investigating crimes outside of the
+scope of purported “terrorism” or child abuse. Since 2018, if not earlier,
+the company has been moving towards a state of functional compliance with
+various Western governments. A privacy policy change in 2018 allowed for the
+disclosure of IP addresses and phone numbers if required by a court.&lt;/p&gt;
+
+&lt;p&gt;The paragraph below appears under a section titled, “Who Your Personal Data
+May Be Shared With” in &lt;a href=&quot;https://web.archive.org/web/20220605092126/https://telegram.org/privacy#2-legal-ground-for-processing-your-personal-data&quot; title=&quot;Telegram Privacy Policy&quot;&gt;the company’s privacy policy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Law Enforcement Authorities&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If Telegram receives a court order that confirms you’re a terror suspect, we
+may disclose your IP address and phone number to the relevant authorities. So
+far, this has never happened. When it does, we will include it in a semiannual
+transparency report published at:
+&lt;a href=&quot;https://t.me/transparency.%22&quot;&gt;https://t.me/transparency.”&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Governments have historically used the “terrorism loophole” to justify invasive
+measures. Since the United States spies on Americans for counterterrorism
+purposes, there is no reason to believe Germany would not use the same excuse.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Jun 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/06/08/telegram-giving-data-to-feds.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/08/telegram-giving-data-to-feds.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

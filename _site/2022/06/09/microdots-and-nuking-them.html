@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Removing microdots from printed documents</title>
+  <meta name="description" content="Anonymize your documents by removing metadata and ensure you don’t have anyidentifying marks embedded.">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/2022/06/09/microdots-and-nuking-them.html">
+  <link rel="alternate" type="application/rss+xml" title="sharp-tailed.github.io" href="http://localhost:4000/feed.xml">
+</head>
+
+
+  <body>
+
+    <div class="wrapper">
+      <header>
+
+  <a href="/">
+    <img class="me" src="/images/image.gif" />
+  </a>
+
+  <ul class="icons">
+    <li>
+      <a href="/about.html" title="About me">
+        <i class="fa fa-user"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="https://mastodon.social/@thehidden" title="Mastodon">
+        <i class="fab fa-mastodon"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="https://github.com/sharp-tailed" title="Github">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="https://sinister.ly/" title="Sinister.ly">
+        <i class ="fa fa-user-secret"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="/feed.xml" title="Atom feed">
+        <i class="fa fa-rss"></i>
+      </a>
+    </li>
+
+    <li>
+      <a href="https://anonymousplanet.org/" title="Anonymous Planet">
+        <i class="fa fa-globe"></i>
+      </a>
+    </li>
+
+  </ul>
+</header>
+
+      <section>
+
+        <h1>Removing microdots from printed documents</h1>
+
+        <p class="post-meta">
+          <time datetime="2022-06-09T00:00:00-04:00">
+            Jun 9, 2022
+          </time>
+
+        <article>
+          <p>Anonymize your documents by removing metadata and ensure you don’t have any
+identifying marks embedded.</p>
+
+<p>For hundreds of years, paper and printing techniques are the foundation for
+distribution of information. Thereby, physical documents enjoy high
+confidence. To have something in “black and white” carries significance. But
+forgery or alteration of documents are nearly as old as the history of
+writing. Hence the question for the originator is important. Nowadays,
+because of continual technological development, even individuals can print
+high-quality documents and duplicates. This can be done with cheap and
+customary devices. In addition image processing software, like GIMP or Adobe
+Photoshop, allows to manipulate documents and images easily. Therefore
+printed documents are often an issue in crimes, e.g. faked proof of identity,
+copyright theft, or as exhibit in a criminal case. In all this cases it could
+be useful for law enforcement agencies to, e.g., identify the device or model
+which was used to print the questionable document.</p>
+
+<p>The primary focus of the research lies on the extraction of artifacts, which
+are originated from the print process. These artifacts emerge particularly
+through electromechanical imperfections and also through differences between
+constructions of printer models. We try to find and analyze artifacts which
+are stable and e.g. model specific and therefore usable as intrinsic
+signatures for a specific printer model. The extraction of these signatures
+should be conducted with customary scanner devices and image processing
+techniques. Simultaneously, the company Dence (cooperation partner) will
+investigate the scanner forensics.</p>
+
+<p>The second part of the project deals with research of print-scan resilient
+checks of duplicates. Here the knowledge about artifacts which occur in the
+print and scan process represent a reliable basis. As use case the typical
+workflow in an insurance can be mentioned. In the event of damage, the
+insured person would take a photo of the damage and send it postal, together
+with forms, to the insurance. Afterwards the insurance will scan these
+documents. The insurance staff examines the event of damage on the basis of
+the digital reproduction. Because of the print and scan processes, which the
+original document went through, the question of authenticity of the document
+is difficulty to answer. Goal of the analysis is the implementation of an
+image search for duplicates, which is resilient against the print and scan
+process. This means, that images can also be matched, if only printed and
+re-digitized versions are available. The duplicate testing must be able to
+check an image immediately against a data pool with millions of images. From
+technical view, this will be realized with a distinct image hash. The
+challenge for the print-scan scenario is the computation of this hash. The
+hash value has to be equal or very similar between the original photo and the
+printed and re-digitized image, so that they can matched. Another difficulty
+is a working check for duplicates also with slight manipulations in the
+image (like a car scratch). All of this must be accomplished without matching
+false positives.</p>
+
+<h3 id="references">References</h3>
+<ul>
+  <li>https://dfd.inf.tu-dresden.de/</li>
+  <li>https://github.com/dfd-tud/deda</li>
+</ul>
+
+        </article>
+
+      <br/><br/>
+
+      </section>
+      <footer>
+  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+</footer>
+
+  </body>
+</html>
