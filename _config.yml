@@ -8,8 +8,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-title: There is Nothing Here
-description: There is Nothing There
+title: There's Nothing Here
+description: There's Nothing There
 author: sharp-tailed
 github:
   home_url: index.html
