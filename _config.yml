@@ -1,0 +1,24 @@
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+title: There is Nothing Here
+description: There is Nothing There
+author: sharp-tailed
+github:
+  home_url: index.html
+  tor_mirror_url: http://nope46ncea3jlbkqmu75srdmrnpprf6gsrbsf7oqae7khw4o24l56kid.onion
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      sitemap: true
+locale: "en-US"
