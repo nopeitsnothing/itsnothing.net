@@ -13,7 +13,11 @@ Since around 2011, I have dedicated most of my free time to helping further my f
 #### OPSEC:
 
 Keyoxide: [rsa4096/0xB208C4084A2C582D](https://keyoxide.org/hkp/no%40anonymousplanet.org)🔑  
-FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](PGP/D7939998F78BADB518C1B600B208C4084A2C582D.txt)
+FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](PGP/D7939998F78BADB518C1B600B208C4084A2C582D.txt)  
+
+#### I2P:
+- Mail: [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)
+- Web: [nopenothinghere.i2p](http://nopenothinghere.i2p/) / base32: NaBmtzV5tnkfMFht8cMbjkSc476dd8GQSBAQsYE7Bpk1oGa3NXm2eR8wWG3xwxuORJzjvp13wZBIEBCxgTsGmTWgZrc1ebZ5HzBYbfHDG45EnOO  
 
 #### GitOps:  
 - Github:
