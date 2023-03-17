@@ -38,7 +38,7 @@ These are ~3 things you should absolutely be doing:
 * DNS over HTTPS (DOH)
 * containerize and/or sanitize browsing in-between sessions, 
   (again, Arkenfox/user.js)
-* minimize your footprint/fingerprint (Firefox FRP)
+* minimize your footprint/fingerprint (Firefox RFP)
 * plain-text emails only, question all attachments from all sources
 
 **3. Practice your OPSEC:**
@@ -51,4 +51,5 @@ These are ~3 things you should absolutely be doing:
 * avoid face and biometric unlocks
 * never reuse usernames
 * use a mail forwarding service to combat spam (and further confuse the enemy)
+* use security keys (YubiKey, etc.) for U2F/OATH/FIDO; they are resistant to phishing
 * [personal security checklist](https://github.com/Lissy93/personal-security-checklist)
