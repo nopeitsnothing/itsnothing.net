@@ -8,7 +8,7 @@ It would prohibit federal agencies from purchasing or using specific products an
 
 In addition, the bill would establish a program within the National Institute of Standards and Technology (NIST) to develop standards and guidelines for the secure use of ICT products and services, and it would require the Director of National Intelligence to provide an annual report on the national security risks posed by ICT products and services.
 
-Overall, the goal of the RESTRICT Act is to strengthen the security of the United States' ICT infrastructure by identifying and addressing potential national security threats posed by certain ICT products and services. It also appears that it references [[Executive Order 13526]] as well, an Order enacted by President Obama which summarily defines: 
+Overall, the goal of the RESTRICT Act is to strengthen the security of the United States' ICT infrastructure by identifying and addressing potential national security threats posed by certain ICT products and services. It also appears that it references [Executive Order 13526](https://www.archives.gov/isoo/policy-documents/cnsi-eo.html) as well, an Order enacted by President Obama which summarily defines: 
 
 > **"a uniform system for classifying, safeguarding, and declassifying national security information, including information relating to defense against transnational terrorism"**. 
 

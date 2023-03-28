@@ -5,8 +5,8 @@
     <description>There's Nothing There</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Mar 2023 00:41:39 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2023 00:41:39 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2023 00:47:11 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2023 00:47:11 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;In addition, the bill would establish a program within the National Institute of Standards and Technology (NIST) to develop standards and guidelines for the secure use of ICT products and services, and it would require the Director of National Intelligence to provide an annual report on the national security risks posed by ICT products and services.&lt;/p&gt;
 
-&lt;p&gt;Overall, the goal of the RESTRICT Act is to strengthen the security of the United States’ ICT infrastructure by identifying and addressing potential national security threats posed by certain ICT products and services. It also appears that it references [[Executive Order 13526]] as well, an Order enacted by President Obama which summarily defines:&lt;/p&gt;
+&lt;p&gt;Overall, the goal of the RESTRICT Act is to strengthen the security of the United States’ ICT infrastructure by identifying and addressing potential national security threats posed by certain ICT products and services. It also appears that it references &lt;a href=&quot;https://www.archives.gov/isoo/policy-documents/cnsi-eo.html&quot;&gt;Executive Order 13526&lt;/a&gt; as well, an Order enacted by President Obama which summarily defines:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;“a uniform system for classifying, safeguarding, and declassifying national security information, including information relating to defense against transnational terrorism”&lt;/strong&gt;.&lt;/p&gt;
