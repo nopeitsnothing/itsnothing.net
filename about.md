@@ -4,7 +4,7 @@ title: Nope
 permalink: /about
 ---
 
-### CEH v11 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
+### Welcome to Nowhere
 
 ### whoami
 
