@@ -28,6 +28,8 @@ If that's too confusing, the ELI5 is this type of resolution would be used if Co
 
 In this sense, the RESTRICT Act could be seen as a way for the federal government to exert greater control over the purchase, use, and sale of certain ICT equipment and services that are deemed to pose a national security threat. (Essentially, as it sees fit to do so.)
 
+Yes, up to and including the VPNs and virtual credit cards services we all know and love. :(
+
 ## Similar texts to S.686 with overarching legislation
 1. [S.2098 - 115th Congress (2017-2018): Foreign Investment Risk Review Modernization Act of 2018](https://www.congress.gov/115/bills/s2098/BILLS-115s2098rs.pdf) (05/22/2018) - expands the scope of such "covered transactions";
 2. McCaul, Meeks, Gallagher, Langevin, Kinzinger, Keating Reintroduce the [Cyber Diplomacy Act](https://foreignaffairs.house.gov/press-release/mccaul-meeks-gallagher-langevin-kinzinger-keating-reintroduce-the-cyber-diplomacy-act/). _Committee on Foreign Affairs_.
