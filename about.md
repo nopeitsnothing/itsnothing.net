@@ -14,7 +14,7 @@ Keyoxide: [rsa4096/0xB208C4084A2C582D](https://keyoxide.org/hkp/no%40anonymouspl
 FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)  
 
 #### I2P:
-- Mail: [rsa4096/0x230ED97D001F5640](mailto:literallynothing@mail.i2p)🔑
+- Mail: [rsa4096/0x230ED97D001F5640](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
 - Web: [nopenothinghere.i2p](http://nopenothinghere.i2p/) / base32: [http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/](http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/)  
 
 #### GitOps:  
