@@ -24,7 +24,7 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
 
 #### ChatOps
 - Most trust:  
-  - Matrix: [~~@no:anonymousplanet.org~~](https://matrix.to/#/@no:anonymousplanet.org), [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de)
+  - Matrix: [~~@no:anonymousplanet.org~~](https://matrix.to/#/@no:anonymousplanet.org), [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de), [@nope:matrix.rootcloud.pro](https://matrix.to/#/@nope:matrix.rootcloud.pro)
   - Briar or Cwtch (ask)
   - Signal (ask)
 - Less trust:  
