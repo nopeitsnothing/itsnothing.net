@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nope
+title: Nope's Blog
 permalink: /about
 ---
 
