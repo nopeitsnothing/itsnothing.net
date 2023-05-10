@@ -48,6 +48,6 @@ As a bonus, it could be interesting to also consider
 [hardening your Windows host](https://github.com/beerisgood/windows10_hardening).
 (This is a security guide, not a privacy guide.)
 
-**[The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet-ng.org/)**
+**[The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)**
 
-Disclaimer: I am a maintainer.
+> **Disclaimer:** I am the co-owner of THGTOA above.

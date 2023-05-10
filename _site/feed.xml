@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>There's Nothing Here</title>
-    <description>There's Nothing There</description>
+    <title>There&apos;s Nothing Here</title>
+    <description>There&apos;s Nothing There</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2023 04:33:02 -0400</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2023 04:33:02 -0400</lastBuildDate>
+    <pubDate>Mon, 08 May 2023 02:24:29 -0400</pubDate>
+    <lastBuildDate>Mon, 08 May 2023 02:24:29 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Let's talk about the &quot;RESTRICT Act&quot;</title>
+        <title>Let&apos;s talk about the &quot;RESTRICT Act&quot;</title>
         <description>&lt;p&gt;Let’s talk about the “Restricting the Emergence of Security Threats that Risk Information and Communications Technology Act” a/k/a the “RESTRICT Act”&lt;/p&gt;
 
 &lt;p&gt;The Senate text summary of S.686 - RESTRICT Act, &lt;a href=&quot;https://www.congress.gov/member/mark-warner/W000805&quot;&gt;Sen. Warner, Mark R. [D-VA]&lt;/a&gt; (Introduced 03/07/2023) is as follows:&lt;/p&gt;
@@ -261,9 +261,11 @@ check the orange/red settings, and save.&lt;/li&gt;
 &lt;a href=&quot;https://github.com/beerisgood/windows10_hardening&quot;&gt;hardening your Windows host&lt;/a&gt;.
 (This is a security guide, not a privacy guide.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://anonymousplanet-ng.org/&quot;&gt;The Hitchhiker’s Guide to Online Anonymity&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://anonymousplanet.org/&quot;&gt;The Hitchhiker’s Guide to Online Anonymity&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Disclaimer: I am a maintainer.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; I am the co-owner of THGTOA above.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 12 Jun 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/06/12/what-windows-does-with-all-your-data.html</link>
