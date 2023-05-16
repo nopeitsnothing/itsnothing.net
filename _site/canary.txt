@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I am the admin of this website.
+I am in control of my PGP key.
+I will update this canary within 30 days.
+Today is 2023-05-16.
+
+All messages are signed with the key(s) found in /pgp.txt.
+
+Latest bitcoin block hash:
+0000000000000000000217dfa290e157da15277a9ad96d524bbb540b7b864338
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmRjLJwACgkQsgjECEos
+WC2bdw//aRVaB07w4ACAnshoS5HPuz4BJ/xqcnJEKuqcbe+M2LhFE1EylJQ9/158
+o9CKEKYOSCKZC4kUJOT78fgcsg8yCzadMmmXMfrC9juEhd31Y5jf37pkHsHFjwnb
+ws6srfm7HBRZ2fHXeto3SGvyl+hdewDpkBLMMUnm+E8Be8N3QoqxzmEGApqnKISL
+MlBZkuw/mOOdaFWeRcbNQB2Kf7YjTGYs75okUe9tmv+71xv7SKM9nvOK6mmGQpkt
+WsqZqiZwgH8jWStpqr8K3l/shguh4ZETIjyIf5BAZtNIwoWpMY1jMGZgUwWYdUUI
+byUJgEquPHKcZtWO7IfZ1bhiLMun96GadnYDo9hMuCWHZZ+kNZJHcgFeIfhANtrU
+5jBKR8umwOEnRTje/SL/+4zKwQbiJedNBRcifLzmWRDpJk0jaYBJ9wIjnmQzyz9J
+qzdrD8150mGhA8VG9rq+jp4Zm5qG00zCOHJCBRIWdFIUR+/X0LXP2orkRITY0JW1
+CZHQXNeNTHvaqU48qFW2IFuDfI/2PXLyGwN1hcJ8gMsR/fw/TNDWWyn0VdDLdumi
+14VqYYdE00dSZD64Qce6V5VJpxa/6LBhU1juwt2vipNjk90647fSLKGE5DOPUr+B
+oGzERXoakLksitGZqcE3ywLB8RRQeRxfifhEqySVa84JBQvbfWI=
+=DEk1
+-----END PGP SIGNATURE-----
