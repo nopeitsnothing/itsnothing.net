@@ -33,7 +33,7 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
   - CryptoStorm: \[[th-anon@irc.cryptostorm.is](irc://irc.cryptostorm.is/th-anon) - [Tor v3](ircs://stormwio4d5qkewys7ymh5lezxs35qweyomvyeqddcxgkslt3sfltsad.onion:6697/cryptostorm) / [Tor v3 Web](http://stormu36id5e62n2i7kq3v7batuy34dimpijx5euklgl5bwi65eaycyd.onion/chat/)\]  
   - LiberaChat: \[[gentle@irc.libera.chat](irc://irc.libera.chat/) - [Clear](ircs://irc.libera.chat:6697) / [Web](https://web.libera.chat/)\]  
 
-I toot sometimes: <a rel="me" href="https://sysad.ninja/@no">Mastodon</a>
+I toot sometimes: <a rel="me" href="https://ioc.exchange/@unknown">@unknown@ioc.exchange</a>
 
 ### Welcome to nowhere.
 
