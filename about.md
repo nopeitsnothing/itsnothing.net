@@ -16,8 +16,8 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
 
 #### GitOps:  
 - Github:
-<a rel="me" href="https://github.com/sharp-tailed">@sharp-tailed</a>
-- 0xacab: <a rel="me" href="https://0xacab.org/sharptail">@sharptail</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/sharptail)
+<a rel="me" href="https://github.com/nopeitsnothing">@nopeitsnothing</a>
+- 0xacab: <a rel="me" href="https://0xacab.org/nopeitsnothing">@nopeitsnothing</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/nopeitsnothing)
 
 #### ChatOps
 - Most trust:  
@@ -26,7 +26,7 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
   - Signal (ask)
 - Less trust:  
   - [(A/I) th.anon@insicuri.net](xmpp:th.anon@insicuri.net)  
-  - [(Disroot) sharptail@disroot.org](xmpp:sharptail@disroot.org)    
+  - [(Disroot) nopeitsnothing@disroot.org](xmpp:nopeitsnothing@disroot.org)    
   - [(Pwned.Life) throwaway1316@pwned.life](xmpp:throwaway1316@pwned.life)  
 - Not often used:  
   - Interlinked: \[[alyssa@irc.interlinked.me](irc://irc.interlinked.me/alyssa)\]
