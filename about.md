@@ -20,7 +20,7 @@ Please note I am no longer using DNSSEC with OpenPGP.
 - Github:
 <a rel="me" href="https://github.com/nopeitsnothing">@nopeitsnothing</a>
 - 0xacab: <a rel="me" href="https://0xacab.org/nopeitsnothing">@nopeitsnothing</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/nopeitsnothing)
-- Darktea (Git over Tor): <it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/thehidden>
+- Darktea (Git over Tor): it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/thehidden
 
 #### ChatOps
 - Most trust:  
