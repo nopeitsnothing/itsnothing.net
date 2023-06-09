@@ -1,0 +1,75 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Fri Jun  9 14:29:48 EDT 2023
+
+Permanent record of old and new PGP keys:
+
+the old key I used primarily for git and my old blog was:
+
+pub   rsa4096/0x5ADB6B4ED7454610 2021-04-05 [SCA] [expires: 2025-04-27]
+      Key fingerprint = 5A17 A712 1C91 A159 2619  A4C2 5ADB 6B4E D745 4610
+uid                   [ unknown] Gymnoglaux Lawrencii <lawrencii@riseup.net>
+
+And the new key is:
+
+pub   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
+      Key fingerprint = D793 9998 F78B ADB5 18C1  B600 B208 C408 4A2C 582D
+uid                   [ultimate] Nope <no@anonymousplanet.org>
+
+To fetch the full key, you can simply do:
+
+  gpg --keyserver keys.openpgp.org --recv-key 0xB208C4084A2C582D
+
+**
+  Note: this keyserver is experimental.[0] I still have yet to add this key to
+  the I2P keyserver pool, and I don't know if I will. If you have previously
+  signed my key but did a local-only signature (lsign), you will not want to
+  issue the following, instead you will want to use --lsign-key, and not send
+  the signatures to the keyserver.
+**
+
+  gpg --sign-key 0xB208C4084A2C582D
+
+I'd like to receive your signatures on my key. You can either send me an e-mail
+with the new signatures (if you have a functional MTA on your system):
+
+  gpg --export 0xB208C4084A2C582D | gpg --encrypt -r 0xB208C4084A2C582D --armor \
+      | mail -s 'OpenPGP Signatures' <no@anonymousplanet.org>
+
+Additionally, I highly recommend that you implement a mechanism to keep your key
+material up-to-date so that you obtain the latest revocations, and other updates
+in a timely manner. You can do regular key updates by using parcimonie[1] to
+refresh your keyring. Parcimonie is a daemon that slowly refreshes your keyring
+from a keyserver over Tor. It uses a randomized sleep, and fresh tor circuits
+for each key. The purpose is to make it hard for an attacker to correlate the
+key updates with your keyring.
+
+I also highly recommend checking out the excellent Riseup GPG best practices
+doc, from which I stole most of the text for this transition message ;-)
+
+https://we.riseup.net/riseuplabs+paow/openpgp-best-practices
+
+Please let me know if you have any questions, or problems, and sorry for the
+inconvenience.
+
+  Nope (Anonymous Planet) <no@anonymousplanet.org>
+
+0. https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
+1. https://directory.fsf.org/wiki/Parcimonie
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSDb9gACgkQsgjECEos
+WC1+eQ/+Oksuy1Qhycvr1nZ9xrJBZo6tvFseOeBs22vhzmx+K/DsCfWKK063GjZp
+y3sfWp3N+d9UPlmz78bgNPp8cvKeD5wnuBm5PKlnsJ8Rfs4feMnf0//kb3hz534r
+8AUkkGxseTlPHtZ/HUHO8z8+p7cndzjPO5yM0MXeh0Sxi2eEVahhOw8gQxHi9PXQ
+urMPeXl9d+9Giaa+z3fB7WHFOTcN2CISvbjcKzKDdA1ZzELGjyRGUj45evMRUPUH
+gblJKa5RJO+bc5k5fnmVIlAnR3dcVGXGw8WuxQPdLV4oJzaSE7+HunwG/7ga0BIy
+DHCJPNw5N5R04pG4coaBj3lyJFOqMGbOo8bM4JUdKYe2sYxp9Mbh+Ji78gkv3e+8
+DXdnP1yHqb7Q1SPKNQjVxNU+POMkfgCLdkuVfBV83UYfIyhLMUv2Ly+PMEQ8qwVK
+XhyklbgDabRzLHiZj0JiZde0kRUZ/bUHmOXi5T1erlwSyBbNGF6m9P2gdLSdjALW
+cNn6a/+5SYnDdR4kaHQ88BNiTxk9p2os+aYBZBm47tpCI4OiAn5wYXtyRrrMTqio
+63SvMozeA00xrbMdTCUqzt+ff1cipvSVF3Cmwunh7OlvGBA3miG4wQAjYubqdalb
+TpolvFUPW+0wpz9SE53oRQbC5dght9LLvRSBEC9dXr33WTi60o8=
+=KZVh
+-----END PGP SIGNATURE-----
