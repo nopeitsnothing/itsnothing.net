@@ -1,0 +1,10 @@
+{
+    "admins": [
+        {
+            "email_address": "contact@itsnothing.net",
+            "matrix_id": "@no:itsnothing.net",
+            "role": "admin"
+        }
+    ],
+    "support_page": "https://itsnothing.net/about"
+}
