@@ -1,0 +1,77 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This is a signed summary of relevant cryptographic information for nopenothinghere.
+The latest version of this file is always located at:
+  https://itsnothing.net/crypto.txt
+
+This information is current as of Friday Jun 9, 2023.
+
+Contact
+=======
+
+email:  no@anonymousplanet.org
+web:    https://itsnothing.net/
+irc:    alyssa  @ irc.interlinked.me
+        th-anon @ irc.cryptostorm.is
+        gentle  @ irc.libera.chat
+matrix: @thehidden:tchncs.de
+xmpp:   sharptail @ disroot.org
+
+
+OpenPGP key
+===========
+
+sec   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
+      Key fingerprint = D793 9998 F78B ADB5 18C1  B600 B208 C408 4A2C 582D
+uid                   [ultimate] Nope <no@anonymousplanet.org>
+uid                   [ultimate] Nope! <ops@itsnothing.net>
+uid                   [ultimate] Nope! <admin@distrust.cc>
+uid                   [ultimate] sharptail@riseup.net
+uid                   [ultimate] Than Harrison <nopenothinghere@proton.me>
+uid                   [ultimate] Git Ops <gitops@itsnothing.net>
+uid                   [ultimate]  (I2P Contact) <literallynothing@mail.i2p>
+ssb   rsa4096/0x04F7D9C66C743D6A 2022-11-04 [E] [expires: 2027-11-03]
+
+The latest up to date key including signatures can be found at:
+   https://itsnothing.net/pgp.txt
+
+A statement of migration from previous OpenPGP key signed by both keys can be
+found at:
+   https://itsnothing.net/statement.txt
+
+
+OTR fingerprints
+================
+
+(N/A) I no longer use Off the Record messaging. No FPs available.
+
+
+Olm/Megolm matrix fingerprints
+==============================
+
+@thehidden:tchncs.de    OFIJXCLVKD    Clrs Hsjd 1YwJ MtEe DTsV 1AK2 /TxW kfc5 T/CE YifS yJ4
+@thehidden:tchncs.de    VTVSYMRBWJ    Maye onWj K5fD xp3j eVz1 B521 KcNJ Lisb okqw E1dV gJo
+
+
+OMEMO fingerprints
+==================
+
+sharptail@disroot.org/1302208566  42F72634 2D419951 E04BCF02 9E17B0C9 DFE073C0 97E16167 0972EEC3 05FDF262
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSDcDwACgkQsgjECEos
+WC2ScRAAtevWznlfPkiT2r0VwMDTtVZW5SIZ3F7mNGqdmzruWLpicJPsHfYsdkIs
+nh+xbE3rvb6oYFweKiB5czDrWbQVni9ZaPa2xi8Bu2+0yUWgmGEmt9yFPjFBBgiI
+QedVE1K+gdwzHK5cRRYAfdtS50nVSZuM1M6lB0JVhGqRaYLaE1mWEWp4bHZ2znBc
+E+5BS6QciNLf/OGvdckYQk38fTuVgiH2VfsDGlyeje+RU2RNOXGk4i0CBait7Lv1
+eV298Mz6cxFKoiL/m9x1mQKAPdsj85ZGcKJSuubQg1uaD3pvrDVchutTqYshe9ks
+sxeXM3GPja8UK38D4AETYOipRxJ/daBLOLP9/nLJA7t6oSGw+D9i1Iv2ZPvfKEwm
+c5CV2aU/cQan2+6BmcMUoy7ufiz6cP8FOW+KvyZ8Q/nK0wq0MFI2+vrV4SJMAC1W
+NgzaOC7kUN6XGkwKAoV/5GBI9Iws+aZ7B7SQYq/Pkz7MjNgfZby07Skrh3V41s6O
+tHv3S58siqpOV0+EbshcCVbZaKszMZ6TLCDYWpeHzALrEXMZSTYB3qk8fBhyuq0U
+BmfWInexc4dqS0+Oe/MeNaxR/Prq/5abrPRooHsFPkdn5n/s9Zv52NZUcEvgehYg
+wE6mLKyxBesdocTumq15h622YxhgtcklEWn2WMCgVWCuOsNVqPs=
+=U+YR
+-----END PGP SIGNATURE-----

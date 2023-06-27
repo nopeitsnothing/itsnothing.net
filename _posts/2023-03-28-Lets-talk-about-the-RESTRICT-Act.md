@@ -3,7 +3,7 @@ layout: post
 title: Let's talk about the "RESTRICT Act"
 ---
 
-Let's talk about the "Restricting the Emergence of Security Threats that Risk Information and Communications Technology Act" a/k/a the "RESTRICT Act"
+Let's talk about the RESTRICT Act
 
 The Senate text summary of S.686 - RESTRICT Act, [Sen. Warner, Mark R. [D-VA]](https://www.congress.gov/member/mark-warner/W000805) (Introduced 03/07/2023) is as follows:
 

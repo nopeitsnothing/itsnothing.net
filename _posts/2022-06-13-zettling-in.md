@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I tried many things, but..
+title: Using Zettlr for note-taking
 ---
 
 I find that [Zettlr][1] \[_ˈset·lər_\] and [Zotero][2] make my life easier. I

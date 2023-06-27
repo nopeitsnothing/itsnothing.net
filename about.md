@@ -36,7 +36,7 @@ Please note I am no longer using DNSSEC with OpenPGP.
   - CryptoStorm: \[[th-anon@irc.cryptostorm.is](irc://irc.cryptostorm.is/th-anon) - [Tor v3](ircs://stormwio4d5qkewys7ymh5lezxs35qweyomvyeqddcxgkslt3sfltsad.onion:6697/cryptostorm) / [Tor v3 Web](http://stormu36id5e62n2i7kq3v7batuy34dimpijx5euklgl5bwi65eaycyd.onion/chat/)\]  
   - LiberaChat: \[[gentle@irc.libera.chat](irc://irc.libera.chat/) - [Clear](ircs://irc.libera.chat:6697) / [Web](https://web.libera.chat/)\]  
 
-I toot sometimes: <a rel="me" href="https://ioc.exchange/@unknown">@unknown@ioc.exchange</a>
+I toot sometimes: <a rel="me" href="https://ioc.exchange/@unknown">Mastodon</a>
 
 ### Welcome to nowhere.
 
