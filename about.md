@@ -11,18 +11,18 @@ FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)
 
 Please note I am no longer using DNSSEC with OpenPGP.
 
-#### I2P:
-- Mail: [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
-- Web: [nopenothinghere.i2p](http://nopenothinghere.i2p/) / base32: [http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/](http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/)  
+#### 🕵🏻 I2P
+- 📧 [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
+- 🌎 [nopenothinghere.i2p](http://nopenothinghere.i2p/) / base32: [http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/](http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/)   
 
 
-#### GitOps:  
+#### </> GitOps  
 - Github:
 <a rel="me" href="https://github.com/nopeitsnothing">@nopeitsnothing</a>
 - 0xacab: <a rel="me" href="https://0xacab.org/nopeitsnothing">@nopeitsnothing</a> / [over Tor](http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/nopeitsnothing)
 - Darktea (Git over Tor): [@thehidden](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/thehidden)
 
-#### ChatOps
+#### 💭 ChatOps
 - Most trust:  
   - Matrix: [~~@no:anonymousplanet.org~~](https://matrix.to/#/@no:anonymousplanet.org), [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de)
   - Briar or Cwtch (ask)
