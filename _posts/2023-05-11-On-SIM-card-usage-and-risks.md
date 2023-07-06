@@ -30,7 +30,7 @@ However, it's important to note that while SIM cards provide some privacy protec
 
 Why are hackers targeting SIM cards? Mostly for fraud, and otherwise profit. The SIM contains its own microprocessor (CPU), program memory (ROM), working memory (RAM), data memory (EPROM or E2PROM), and serial communication module. The SIM card interacts with the mobile device through a serial Input/output (I/O) connection, serving as a communication link. The T0 protocol is commonly used, defining the electrical coding for commands and responses between the mobile device and SIM card. The SIM card operates in a passive role, responding to commands from the mobile device and providing “Status Words” as responses. It cannot initiate communication with the device independently.
 
-SIM cards pose several [threats to personal information security](/2022/01/27/A-proper-threat-model.html):
+SIM cards pose several [threats to personal information security](/2022/01/27/a-proper-threat-model.html):
 
 1. **Confidential information**: SIM cards can store sensitive data like login IDs, passwords, and messages related to bank accounts and social networking sites, making them potential targets for unauthorized access and identity theft.
 2. **Personal and professional data**: SIM cards may contain personal and professional messages, important contact information, and call logs. If accessed by unauthorized individuals, this information could be exploited for malicious purposes.
