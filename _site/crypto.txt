@@ -5,7 +5,7 @@ This is a signed summary of relevant cryptographic information for nopenothinghe
 The latest version of this file is always located at:
   https://itsnothing.net/crypto.txt
 
-This information is current as of Sat Jul 1 03:20:00 EDT 2023.
+This information is current as of Sat Jul 6 04:00:00 UTC 2023.
 
 Contact
 =======
@@ -22,7 +22,7 @@ xmpp:   sharptail @ disroot.org
 OpenPGP key
 ===========
 
-sec   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
+pub   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
       Key fingerprint = D793 9998 F78B ADB5 18C1  B600 B208 C408 4A2C 582D
 uid                   [ultimate] Nope <no@anonymousplanet.org>
 uid                   [ultimate] Nope! <ops@itsnothing.net>
@@ -31,7 +31,7 @@ uid                   [ultimate] sharptail@riseup.net
 uid                   [ultimate] Than Harrison <nopenothinghere@proton.me>
 uid                   [ultimate] Git Ops <gitops@itsnothing.net>
 uid                   [ultimate]  (I2P Contact) <literallynothing@mail.i2p>
-ssb   rsa4096/0x04F7D9C66C743D6A 2022-11-04 [E] [expires: 2027-11-03]
+sub   rsa4096/0x04F7D9C66C743D6A 2022-11-04 [E] [expires: 2027-11-03]
 
 The latest up to date key including signatures can be found at:
    https://itsnothing.net/pgp.txt
@@ -63,19 +63,20 @@ Session fingerprint
 ===================
 
 053686ab7bbb2287dee2d9c1a87518ccc5c0dae76f5aa5d0b095293700c2eb730c
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSff1gACgkQsgjECEos
-WC3obw/+J5+IIR33JNWktHR8sIGJtF/DtISVSQrpy2qQfXRsZ+E8fSiewwgUe0xP
-uVI7KKkKMWpKgX01zlEAqT9Q53LXkqElSFXyEZ0ciJOoRXXrODNK5HS4x/onBaSq
-SSLQuK5yS682i6x0rouQUfyztSiIMiASMatfGYN/hWXngkmOuRtBauZ0jdurx9L4
-wvB9I6LwNGnCgUDCAI68NtAVp5xvCHgC/TMjHswB+6FhnPNC1AcC2SLBMSVBPu5A
-cE0AB2lliqf3lHE5d9XxE8ioPCkrqdVPU6Dj+zvb6aQBP0qrOAJ3+tjIiLRiRWpp
-fis6i+j1+xk9ZLxzbmzWdyccOvwoCqspyQRwqmWW+/kSoA/oMr1XeVyxk/SsL3lT
-dLKa7dRqw6AzwCeAVQRH5rPgK119msUyvyPbaBTFDA+/0/7xaUFPHQ4kbUoXur05
-zJx6exuhLp9l2D7M6w5NlxVqKaUpuDdXdomxUG/MIg9GPpO0yWOnELFUXrx6W1uh
-GMXFtem2/29kpRB3Gcq7X1Ky6kQyVAj+SJW6ceH6jim5U+U127U7JnphrZJPRl2j
-W7qm12rXEnkiQVpH8arg1NIALipYP8a4+2Ax9hHI46tTWOBE0E/pMhKnywuR7Mu2
-I7L+qjQjNYgCIXy7LlTqcz4yhidJnT7WQ/IWbPI7r+cAWgIN4SA=
-=yotT
+iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSmPOwACgkQsgjECEos
+WC3idQ//SpdxLcyrNHAUEUAvN/1yOPEUagVYHQ/9FpxLH6qZ3qxxuFlCNLyPFibb
+APDXGqHaLpWXHkl2YcwVDh29HuN4pKEX5/NQc5QetRILVkztPtt9nQZxgfSaaMpY
+39ieSy0zob2eidWOvlrZEPIuBZIbVdoGeS6dftRRKannygA6mrzPUVp+BwxAGfun
+2rzYpEngqfeeSBxu7rdIyZRbZVxAGtSj/TfIT8lAptcp42TVVNaIYpOm284dL/ed
+4UI10fz/JRqXURmig7dYfcPC3JVNqZn7f407v7dCnv3tDx8E88ilqyA/s9dw+P8y
+6v1fWtdt1mIXRgS1sxzPKALeFlOl96Y3ggcZVntskWCg3iQDKWbgeKcD+kN48iCJ
+NitmmjWK3jNw/Tb2PnPubyym+ZaI40EQnHhin2RuYf35GXPqAUPHcdqSym5bf1it
+NA7cudmGWUpS9cIf2pMdN7H1WO/vi3oW70g+S6zEH/Bcv616M1Hvg7tP0C8vF6HG
+EOO23ar608+8J5JyZDx80uC4np3eOY6UmXF3ZY7RchVwUxXTi1b07MVwLAJ/7viY
+FAjI30auOC7i6IRg2CdAKkdLqe8lLD9Foq9SXtYze40DGS4cA7N+3gVcOULEoq7K
+KdHzijcFJGM9xPqr0fB4EPe73dj9TTgCY952aQjG6g63gd9Dwo0=
+=rwYx
 -----END PGP SIGNATURE-----
