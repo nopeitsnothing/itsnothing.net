@@ -125,3 +125,11 @@ That's the CIA triad but what else should we consider before operations?
 * Exploit-ability - What minimum skill level is needed to launch?
 * Affected Users - How many users will be potentially impacted?
 * Discoverability - What is the ease of finding the vulnerability?
+
+## DFDs
+
+> *Note:* A data flow diagram (DFD) is a graphical or visual representation using a standardized set of symbols and notations to describe a business's operations through data movement. They are often elements of a formal methodology such as Structured Systems Analysis and Design Method (SSADM).
+
+DFDs are very useful in software engineering and development. It is also useful to create a flow of data on a map of the network or service topology, and anything that is considered "in scope". Here's one example I made in 5 minutes with draw.io.
+
+![](/images/dfd_892x806.png)
