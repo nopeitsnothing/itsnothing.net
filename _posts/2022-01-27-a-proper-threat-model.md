@@ -132,4 +132,4 @@ That's the CIA triad but what else should we consider before operations?
 
 DFDs are very useful in software engineering and development. It is also useful to create a flow of data on a map of the network or service topology, and anything that is considered "in scope". Here's one example I made in 5 minutes with draw.io.
 
-![](/images/dfd_892x806.png)
+![](/images/DFD_892x806.png)
