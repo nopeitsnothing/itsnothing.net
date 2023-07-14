@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
-Date: Fri Jun  9 14:29:48 EDT 2023
+Date: Fri Jul 14 17:00:02 EDT 2023
 
 Permanent record of old and new PGP keys:
 
-the old key I used primarily for git and my old blog was:
-
-pub   rsa4096/0x5ADB6B4ED7454610 2021-04-05 [SCA] [expires: 2025-04-27]
-      Key fingerprint = 5A17 A712 1C91 A159 2619  A4C2 5ADB 6B4E D745 4610
-uid                   [ unknown] Gymnoglaux Lawrencii <lawrencii@riseup.net>
-
-And the new key is:
+the old key was:
 
 pub   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
       Key fingerprint = D793 9998 F78B ADB5 18C1  B600 B208 C408 4A2C 582D
 uid                   [ultimate] Nope <no@anonymousplanet.org>
 
+And the new key is:
+
+pub   ed25519/0x21AB6B6A6CB2C337 2023-07-14 [SC]
+      Key fingerprint = C87D 8746 6FD2 0594 5CF1  0A38 21AB 6B6A 6CB2 C337
+uid                   [ultimate] nopenothinghere@proton.me <nopenothinghere@proton.me>
+
 To fetch the full key, you can simply do:
 
-  gpg --keyserver keys.openpgp.org --recv-key 0xB208C4084A2C582D
+  gpg --keyserver keys.openpgp.org --recv-key 0x21AB6B6A6CB2C337
 
 **
   Note: this keyserver is experimental.[0] I still have yet to add this key to
@@ -29,13 +29,13 @@ To fetch the full key, you can simply do:
   the signatures to the keyserver.
 **
 
-  gpg --sign-key 0xB208C4084A2C582D
+  gpg --sign-key 0x21AB6B6A6CB2C337
 
 I'd like to receive your signatures on my key. You can either send me an e-mail
 with the new signatures (if you have a functional MTA on your system):
 
-  gpg --export 0xB208C4084A2C582D | gpg --encrypt -r 0xB208C4084A2C582D --armor \
-      | mail -s 'OpenPGP Signatures' <no@anonymousplanet.org>
+  gpg --export 0x21AB6B6A6CB2C337 | gpg --encrypt -r 0x21AB6B6A6CB2C337 --armor \
+      | mail -s 'OpenPGP Signatures' <nopenothinghere@proton.me>
 
 Additionally, I highly recommend that you implement a mechanism to keep your key
 material up-to-date so that you obtain the latest revocations, and other updates
@@ -59,17 +59,8 @@ inconvenience.
 1. https://directory.fsf.org/wiki/Parcimonie
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSDb9gACgkQsgjECEos
-WC1+eQ/+Oksuy1Qhycvr1nZ9xrJBZo6tvFseOeBs22vhzmx+K/DsCfWKK063GjZp
-y3sfWp3N+d9UPlmz78bgNPp8cvKeD5wnuBm5PKlnsJ8Rfs4feMnf0//kb3hz534r
-8AUkkGxseTlPHtZ/HUHO8z8+p7cndzjPO5yM0MXeh0Sxi2eEVahhOw8gQxHi9PXQ
-urMPeXl9d+9Giaa+z3fB7WHFOTcN2CISvbjcKzKDdA1ZzELGjyRGUj45evMRUPUH
-gblJKa5RJO+bc5k5fnmVIlAnR3dcVGXGw8WuxQPdLV4oJzaSE7+HunwG/7ga0BIy
-DHCJPNw5N5R04pG4coaBj3lyJFOqMGbOo8bM4JUdKYe2sYxp9Mbh+Ji78gkv3e+8
-DXdnP1yHqb7Q1SPKNQjVxNU+POMkfgCLdkuVfBV83UYfIyhLMUv2Ly+PMEQ8qwVK
-XhyklbgDabRzLHiZj0JiZde0kRUZ/bUHmOXi5T1erlwSyBbNGF6m9P2gdLSdjALW
-cNn6a/+5SYnDdR4kaHQ88BNiTxk9p2os+aYBZBm47tpCI4OiAn5wYXtyRrrMTqio
-63SvMozeA00xrbMdTCUqzt+ff1cipvSVF3Cmwunh7OlvGBA3miG4wQAjYubqdalb
-TpolvFUPW+0wpz9SE53oRQbC5dght9LLvRSBEC9dXr33WTi60o8=
-=KZVh
+iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZLG4IAAKCRAhq2tqbLLD
+N0iEAPwMdp0Vj7XtMwVIEnJxInqx+xXvPyC9tMcZbMHrUyASfQEAq/ynVEWHgXH8
+grMMYOULC+d/6xclng3UlfpOEpljFgU=
+=uOay
 -----END PGP SIGNATURE-----

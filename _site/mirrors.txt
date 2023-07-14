@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 https://itsnothing.net
 http://nopenothinghere.i2p
@@ -16,20 +16,10 @@ http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/
 #  - All valid mirrors must only contain a scheme and domain name, no ports or paths.
 #  - /pgp.txt and /mirrors.txt must have the same content on all of your URLs.
 #  - Text which is not intended to be parsed as an official mirror must be commented out with a “#” as the first character on the line.
-
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE15OZmPeLrbUYwbYAsgjECEosWC0FAmSmPUcACgkQsgjECEos
-WC0P7hAAvb8CHfRkV8t2dg1ohXACFTC/xVWkaiLAiI9V12jEZRa11Xc/s8UO/sfz
-VtiomgMnE7MVjDnDsMU7kGctAANOwWofFbBipxtnb2UHQC0oBEPzAPrx+co3qIWg
-/qLP2TLSnx7Pn9qNQMy2ECkBn0o2c0dnp78FgWYfDpPd/4htXXxluxNzcqkmGiJj
-TwheI4Jz/l6EIPSlUMnqOHNdVNwKf9236gbQzLTVR3JhrCNo/fRXRvz/s2+mUlwb
-pkE4Awi171lM92nA/qLYKJrEW/6Nlt8SgxgvgHyFiGTDhtrUfdkpVqeO6YqGfmxv
-ijd4COUXU1rwtto+6z27rFxKwzbCATI4vSTLL9PFaLazoF9REPbGNxn9bPyOuY3r
-cekRrYGAQWDB4tWOS6ImBLsYBX+sBJ/Laqf+62o25iOFZGNH/+x0jOcIlYUkJDbF
-9g1AZc5uB3shQ+JftREqKnhZGsrD3Y82ysKVXu2QD26qqFxo2ZCL35Hh0pysNqx9
-EckjQO/BFubhQEVqFVNFANkaGwV/jsyGBxc3ASmnE92hwXavMw17xhvkvfJGlRih
-ioov9ViEZ2iYDwZaI5zhl8MmYxUJolCPIjrd+CiPMuF19QnGDREVPrTsoI6xn6se
-PO2ef8MHGlEWd5gyPAVHC1O0QnuYEH5PJljpqPyLlg1CsYofpFs=
-=wto3
+iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZLG3KwAKCRAhq2tqbLLD
+N6N2AQC9w4nTpuCuQTJPHt/qSEfBmqzEpTikV2x5EXlx4H/zPgD/WsGNW5RVs3ep
+VtCWpfDsiPNT5GchKC6nrGqiwuMicAA=
+=DCDT
 -----END PGP SIGNATURE-----
