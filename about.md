@@ -6,8 +6,8 @@ permalink: /about
 
 Since around 2011, I have dedicated most of my free time to helping further my favorite open-source projects. You probably know me from [Anonymous Planet](https://anonymousplanet.org/). I frequent the [Privacy, Security and Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) space. If you would like to get in touch, feel free. I will update this fairly often. Below you can find my various accounts. [**matrix**] is your best bet.
 
-Keyoxide: [rsa4096/0xB208C4084A2C582D](https://keyoxide.org/hkp/no%40anonymousplanet.org)🔑  
-FPR: [D793 9998 F78B ADB5 18C1 B600 B208 C408 4A2C 582D](/pgp.txt)  
+Keyoxide: [ed25519/0x21AB6B6A6CB2C337](https://keyoxide.org/hkp/nopenothinghere%40proton.me)🔑  
+FPR: [C87D 8746 6FD2 0594 5CF1 0A38 21AB 6B6A 6CB2 C337](/pgp.txt)  
 
 Please note I am no longer using DNSSEC with OpenPGP.
 
