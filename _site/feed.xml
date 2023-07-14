@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>There&apos;s Nothing Here</title>
-    <description>There&apos;s Nothing There</description>
+    <title>There's Nothing Here</title>
+    <description>There's Nothing There</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Jul 2023 01:05:50 -0400</pubDate>
-    <lastBuildDate>Sat, 08 Jul 2023 01:05:50 -0400</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 16:53:06 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 16:53:06 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
-        <title>What&apos;s a SIM card, and how do I secure it?</title>
+        <title>What's a SIM card, and how do I secure it?</title>
         <description>&lt;h2 id=&quot;perceived-sim-card-opsec&quot;&gt;Perceived SIM card OPSEC&lt;/h2&gt;
 
 &lt;p&gt;SIM cards provide a degree of privacy by allowing users to control their identity and access to mobile services, but users should also be mindful of other potential privacy risks and take appropriate measures to protect their personal information.&lt;/p&gt;
@@ -105,7 +105,7 @@
       </item>
     
       <item>
-        <title>Let&apos;s talk about the &quot;RESTRICT Act&quot;</title>
+        <title>Let's talk about the &quot;RESTRICT Act&quot;</title>
         <description>&lt;p&gt;Let’s talk about the RESTRICT Act&lt;/p&gt;
 
 &lt;p&gt;The Senate text summary of S.686 - RESTRICT Act, &lt;a href=&quot;https://www.congress.gov/member/mark-warner/W000805&quot;&gt;Sen. Warner, Mark R. [D-VA]&lt;/a&gt; (Introduced 03/07/2023) is as follows:&lt;/p&gt;
