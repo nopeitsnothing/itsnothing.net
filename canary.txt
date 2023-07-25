@@ -1,7 +1,21 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Fri Jul 14 17:00:02 EDT 2023
+Tue Jul 25 14:51:36 EDT 2023
+
+I am the admin of itsnothing.net (@Unknown@ioc.exchange) and co-admin of THGTOA.
+I will update this canary within 1 month.
+
+Latest bitcoin block hash:
+00000000000000000000d9330bf8a03ce70cbe5542bddd16558693a43ea32fd3
+
+I am in complete control of all my key material.
+
+All previous keys have been revoked as part of standard OPSEC key rotation procedures. 
+Do not encrypt communications to my old keys, I will not read them.
+
+The key currently published on my website https://itsnothing.net/pgp.txt with a fingerprint 
+of C87D87466FD205945CF10A3821AB6B6A6CB2C337, is my only PGP key for public communication.
 
 Permanent record of old and new PGP keys:
 
@@ -59,8 +73,8 @@ inconvenience.
 1. https://directory.fsf.org/wiki/Parcimonie
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZLG4IAAKCRAhq2tqbLLD
-N0iEAPwMdp0Vj7XtMwVIEnJxInqx+xXvPyC9tMcZbMHrUyASfQEAq/ynVEWHgXH8
-grMMYOULC+d/6xclng3UlfpOEpljFgU=
-=uOay
+iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZMAZwAAKCRAhq2tqbLLD
+N3l3AQC28SZK5HHU1o7K36ifOd/OKj97urrMZF+NUkaRmAwQxgEAlIa2y9g0JoQW
+epEpViXFDwyWIUfNhVaJwUWjn/DLoAI=
+=A72C
 -----END PGP SIGNATURE-----
