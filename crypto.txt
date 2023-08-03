@@ -5,7 +5,7 @@ This is a signed summary of relevant cryptographic information for nopenothinghe
 The latest version of this file is always located at:
   https://itsnothing.net/crypto.txt
 
-This information is current as of Thu Jul 27 18:43:55 EDT 2023.
+This information is current as of Wed Aug  2 20:36:37 EDT 2023.
 
 Contact
 =======
@@ -48,13 +48,9 @@ OTR fingerprints
 Olm/Megolm matrix fingerprints
 ==============================
 
-@thehidden:tchncs.de    JOJXADHDIM    /egF cx0U 5CJa j8SM 9AL/ G5j7 9Qnh n2pe b1KL lCI2 DfA
-@thehidden:tchncs.de    VPZLSJKNDQ    SP7+ CYWH apGp Quxr mBZc Ur5C f/ir 47q0 92np BgpX Quo
-@thehidden:tchncs.de    OFIJXCLVKD    Clrs Hsjd 1YwJ MtEe DTsV 1AK2 /TxW kfc5 T/CE YifS yJ4
-@thehidden:tchncs.de    VTVSYMRBWJ    Maye onWj K5fD xp3j eVz1 B521 KcNJ Lisb okqw E1dV gJo
-@t:netrunner-vault.de   HBREVLFCXM    pkh7 OU4d 5Yi0 vDqv PUGH wgI1 p3TU aAOe l30l QqBh p2A
-@t:netrunner-vault.de   HZQIDYLEVF    E331 ZMjD vh38 FnI8 rKyZ u7jk yTV9 pBaO RKMS wyxS nu0
-
+@thehidden:tchncs.de    CAKLUZIQFD    7fcn tb81 KPCH 3h4U KJvy L4H4 Zl+l khXs Fn6e O+FV DN4
+@t:netrunner-vault.de   KBJYGSJBXJ    2x5P 4CAu hWyp 5L7e tDPE tbpw w0Ii Q3/l HDrI fdP+ w3E
+@thehidden:tchncs.de    BYODXXYSCL    drPJ 4Vyl aze1 hTRt 3FhZ WnoL eoDm CZbv bBh3 uEQd Dog
 
 OMEMO fingerprints
 ==================
@@ -67,8 +63,8 @@ Session fingerprint
 053686ab7bbb2287dee2d9c1a87518ccc5c0dae76f5aa5d0b095293700c2eb730c
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZML0/wAKCRAhq2tqbLLD
-NxO9APoDyfu0qiWo/+yLP6z7jiA4r98Jb+T0akNtuPNpaJPa8wD/TFdIOtkpGjUG
-VVs749ilbxMZTziJSI5YPv+vjXZMFgo=
-=1pHD
+iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZMr2qQAKCRAhq2tqbLLD
+N5RyAQDWMOtHuOr4vIy3V9WcKXwDxJPQPhi26v4caMQ4oMSpOQD/RMy03Y/yC6+v
+uDO4sRa3hpoeyuNLERi/V0ULI5wKiAY=
+=x9Zk
 -----END PGP SIGNATURE-----
