@@ -9,7 +9,7 @@ Authored by [KU Leuven](https://distrinet.cs.kuleuven.be/), [NYU](https://cyber.
 >
 > The two resulting attacks are called the LocalNet and ServerIP attack. Both can be exploited when a user connects to an untrusted Wi-Fi network. Our ServerIP attack can also exploited by malicious Internet service providers. The attacks manipulate the victim's routing table to **trick the victim into sending traffic outside the protected VPN tunnel**, allowing an adversary to read and intercept transmitted traffic.
 
-### LocalNet Attack
+## LocalNet Attack
 
 - [CVE-2023-36672](https://nvd.nist.gov/vuln/detail/CVE-2023-36672): LocalNet attack resulting in leakage of traffic in plaintext. The reference CVSS score is [6.8](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N&version=3.1).
 - [CVE-2023-35838](https://nvd.nist.gov/vuln/detail/CVE-2023-35838): LocalNet attack resulting in the blocking of traffic. The reference CVSS score is [3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:A/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L&version=3.1).
@@ -17,7 +17,7 @@ Authored by [KU Leuven](https://distrinet.cs.kuleuven.be/), [NYU](https://cyber.
 - adversary acts as a malicious Wi-Fi or Ethernet network, and tricks the victim into connecting to this network
 - Here there adversary wants to intercept traffic to target.com, which has the IP address 1.2.3.4. To accomplish this, the adversary tells the victim that the local network is using the subnet 1.2.3.0/24. In other words, the victim is informed that IP addresses in the range 1.2.3.1-254 are directly reachable in the local network. When the victim now visits target.com, a web request will be sent to the IP address 1.2.3.4.
 
-### ServerIP Attack
+## ServerIP Attack
 
 - [CVE-2023-36673](https://nvd.nist.gov/vuln/detail/CVE-2023-36673): ServerIP attack, combined with DNS spoofing, that can leak traffic to arbitrary IP address. The reference CVSS score is [7.4](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N&version=3.1).
 - [CVE-2023-36671](https://nvd.nist.gov/vuln/detail/CVE-2023-36671): ServerIP attack where only traffic to the real IP address of the VPN server can be leaked. The reference CVSS score is [3.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:N/A:N&version=3.1).
@@ -28,14 +28,14 @@ Authored by [KU Leuven](https://distrinet.cs.kuleuven.be/), [NYU](https://cyber.
 - adversary still redirects this traffic to the real VPN server
 - **victim will add a routing rule so that all traffic to the VPN server, in this case the spoofed IP address 1.2.3.4, is sent outside the VPN tunnel**
 
-#### **Am I affected by this vulnerability?**
+## **Am I affected by this vulnerability?**
 
 - all built-in VPN clients of Windows, macOS, and iOS
 - Android 12 and higher is **not**
 - significant number of Linux VPNs
 - most OpenVPN profiles, when used with a vulnerable VPN client, may be
 
-#### **How can I learn more about TunnelCrack?**
+## **How can I learn more about TunnelCrack?**
 
 > For more details about the ServerIP experiments, see [our paper](https://tunnelcrack.mathyvanhoef.com/#paper).
 > Our paper behind the attack is titled [Bypassing Tunnels: Leaking VPN Client Traffic by Abusing Routing Tables](https://papers.mathyvanhoef.com/usenix2023-tunnelcrack.pdf) and will be presented at [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/presentation/xue).
