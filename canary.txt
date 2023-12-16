@@ -1,13 +1,13 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Tue Jul 25 14:51:36 EDT 2023
+Sat Dec 16 04:25:43 PM EST 2023
 
 I am the admin of itsnothing.net (@Unknown@ioc.exchange) and co-admin of THGTOA.
 I will update this canary within 1 month.
 
 Latest bitcoin block hash:
-00000000000000000000d9330bf8a03ce70cbe5542bddd16558693a43ea32fd3
+000000000000000000017df615b0ef8e56541b57c391f3d2847dd81af62893e9
 
 I am in complete control of all my key material.
 
@@ -73,8 +73,8 @@ inconvenience.
 1. https://directory.fsf.org/wiki/Parcimonie
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZMAZwAAKCRAhq2tqbLLD
-N3l3AQC28SZK5HHU1o7K36ifOd/OKj97urrMZF+NUkaRmAwQxgEAlIa2y9g0JoQW
-epEpViXFDwyWIUfNhVaJwUWjn/DLoAI=
-=A72C
+iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZX4V3wAKCRAhq2tqbLLD
+N1fYAQD2bbTqoTTuWJh397ZuRZ0f91tYGmH3q/xTltxtI/pc1AD/aVbsILctaC8z
+SmjQCIlXrq1h0VVJdKespWQu95kufAk=
+=Y3mE
 -----END PGP SIGNATURE-----
