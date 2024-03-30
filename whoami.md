@@ -11,8 +11,8 @@ permalink: /whoami
 
 Since around 2011, he has dedicated most of his free time to helping further his favorite open-source projects. You might know him from [Anonymous Planet](https://anonymousplanet.org/). He frequents the [Privacy, Security and Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) space.
 
-Keyoxide: [ed25519/0x21AB6B6A6CB2C337](https://keyoxide.org/hkp/nopenothinghere%40proton.me)🔑  
-FPR: [C87D 8746 6FD2 0594 5CF1 0A38 21AB 6B6A 6CB2 C337](/pgp.txt)
+Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1)🔑  
+FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
 
 ---
 

@@ -18,8 +18,8 @@ http://43rdc2z5vg3fi3moyfx7xibf2odgzaubow4u2p3gkeshynwwmucq.b32.i2p/
 #  - Text which is not intended to be parsed as an official mirror must be commented out with a “#” as the first character on the line.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTIfYdGb9IFlFzxCjghq2tqbLLDNwUCZLG3KwAKCRAhq2tqbLLD
-N6N2AQC9w4nTpuCuQTJPHt/qSEfBmqzEpTikV2x5EXlx4H/zPgD/WsGNW5RVs3ep
-VtCWpfDsiPNT5GchKC6nrGqiwuMicAA=
-=DCDT
+iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCZghnEQAKCRDxyzL2fjMC
+oXPWAP9WCcXiPImP+dUx+IffxFIQS7jsK460eNTzJwe50dlSAgD+Nu7OydjdIbmH
+XgxzgJYan9hkoXDOME0ocmMf5J6ueQE=
+=7low
 -----END PGP SIGNATURE-----
