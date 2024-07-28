@@ -5,7 +5,7 @@ This is a signed summary of relevant cryptographic information for nopenothinghe
 The latest version of this file is always located at:
   https://itsnothing.net/crypto.txt
 
-This information is current as of Sat Mar 30 04:28:37 PM EDT 2024.
+This information is current as of Sun Jul 28 03:51:56 AM EDT 2024.
 
 Contact
 =======
@@ -50,7 +50,8 @@ Olm/Megolm matrix fingerprints
 @t:netrunner-vault.de   KBJYGSJBXJ    2x5P 4CAu hWyp 5L7e tDPE tbpw w0Ii Q3/l HDrI fdP+ w3E
 @thehidden:tchncs.de    BYODXXYSCL    drPJ 4Vyl aze1 hTRt 3FhZ WnoL eoDm CZbv bBh3 uEQd Dog
 @thehidden:tchncs.de    PGNRTYGHKG    C2Px juxp 9Jx1 k03X uHPs uEx4 WUcB AJxV ZUMf IhVp dc0
-@thehidden:tchncs.de    RQTTASEWUR    xzJD 899S znyU xIId uwjR GI3e lvkh fQ98 tIMO HXwu t3o 
+@thehidden:tchncs.de    RQTTASEWUR    xzJD 899S znyU xIId uwjR GI3e lvkh fQ98 tIMO HXwu t3o
+@thehidden:tchncs.de    ZWJXVXSCCL    gn4L Hrlf lelw WutP Jtw7 pWRa /rcg D7eN I4Q4 j/nR 1OQ
 
 OMEMO fingerprints
 ==================
@@ -61,10 +62,11 @@ Session fingerprint
 ===================
 
 053686ab7bbb2287dee2d9c1a87518ccc5c0dae76f5aa5d0b095293700c2eb730c
+
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCZgh2bAAKCRDxyzL2fjMC
-oZyXAP9J8vVOzzkTxoeE//tkItSEy1jNt7Xq9oqb2fKp6N7FqwEA5NtjdHtCkML3
-GGiEP4P9yjeqOxBLxTvWNvA9r8CrIQQ=
-=0EIe
+iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCZqX4qgAKCRDxyzL2fjMC
+oZQuAP9rE1Obv0yIvxeqawsARht/U9KJcdmZK/Xp3Wf99G/1jAEA5VF+DvsHNxYs
+ajRNffTsmDAIqQPXHOpKPwrCAnhQtAw=
+=Rw0P
 -----END PGP SIGNATURE-----
