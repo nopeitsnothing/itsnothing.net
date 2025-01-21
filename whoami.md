@@ -9,7 +9,7 @@ permalink: /whoami
 > **_Neo**: *"There is no spoon?"*  
 > **_Spoon Boy**: *"…it is not the spoon that bends. It is only yourself."* - The Matrix
 
-Since around 2011, he has dedicated most of his free time to helping further his favorite open-source projects. You might know him from [Anonymous Planet](https://anonymousplanet.org/). He frequents the [Privacy, Security and Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org) space.
+Since around 2011, he has dedicated most of his free time to helping further his favorite open-source projects. You might know him from [Anonymous Planet](https://anonymousplanet.org/). He frequents the [Privacy, Security and Anonymity](https://matrix.to/#/#p-s-a.anonymousplanet.net) space.
 
 Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1)🔑  
 FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
@@ -19,7 +19,7 @@ FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
 ## $ whoami
 
 ./ **(he/him) Ex-Signals Intelligence Analyst and systems admin**  
-./ **An admin of [Privacy, Security and Anonymity](https://matrix.to/#/#privacy-security-anonymity:matrix.org)**
+./ **An admin of [Privacy, Security and Anonymity](https://matrix.to/#/#p-s-a.anonymousplanet.net)**
 
 #### 🕵🏻 I2P
 - 📧 [literallynothing@mail.i2p](mailto:literallynothing@mail.i2p)[🔑](/pgp.txt)
@@ -33,7 +33,7 @@ FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
 
 #### 👋🏻 Contact
 - Most trust:  
-  - Matrix: [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de) / [@t:netrunner-vault.de](https://matrix.to/#/@t:netrunner-vault.de)
+  - Matrix: [@thehidden:tchncs.de](https://matrix.to/#/@thehidden:tchncs.de) / [@t:netrunner-vault.de](https://matrix.to/#/@t:netrunner-vault.de) / [@nope:anonymousplanet.net](https://matrix.to/#/@nope:anonymousplanet.net)
   - Briar or Cwtch: (ask)
   - Signal: (ask)
 - XMPP:  
