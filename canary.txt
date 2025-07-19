@@ -1,16 +1,17 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Sun Mar 16 06:16:12 AM EDT 2025
+Sat Jul 19 02:03:40 AM EDT 2025
 
-I am the admin of itsnothing.net (@Unknown@ioc.exchange) and co-admin of THGTOA.
-I will update this canary within 1 month. Sorry for any possible confusion this
-may cause.
+CEH v12 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
+
+Owner: My blog - https://itsnothing.net.
+Admin: The Hitchhiker's Guide to Online Anonymity - https://anonymousplanet.org
 
 Latest bitcoin block hash:
-00000000000000000001b1fc228c3c7ad22e46d0ec73efcef9bae44dd1bb737b
+00000000000000000000b685887fe078cc9839294a91f8d38a3311864fc15418
 
-I am in complete control of all my key material.
+I positively confirm I am in complete control of all my key material and domains. 
 
 All previous keys have been revoked as part of standard OPSEC key rotation
 procedures. Do NOT encrypt communications to my old keys, I will not read them.
@@ -18,24 +19,10 @@ procedures. Do NOT encrypt communications to my old keys, I will not read them.
 The key currently published on 
 https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1 with a fingerprint
 of 8B3A74890536BAD50D9376EBF1CB32F67E3302A1, is my only PGP key for public
-communication.
-
-It IS published on public keyservers now. Please refrain from uploading it there
+communication. It IS published on public keyservers now. Please refrain from uploading it there
 (again). Someone already broke this rule.
 
 Permanent record of old and new PGP keys:
-
-the old key(s) were:
-
-pub   rsa4096/0xB208C4084A2C582D 2022-11-04 [SC] [expires: 2027-11-03]
-      Key fingerprint = D793 9998 F78B ADB5 18C1  B600 B208 C408 4A2C 582D
-uid                   [ultimate] Nope <no@anonymousplanet.org>
-
-pub   ed25519/0x21AB6B6A6CB2C337 2023-07-14 [SC]
-      Key fingerprint = C87D 8746 6FD2 0594 5CF1  0A38 21AB 6B6A 6CB2 C337
-uid                   [ultimate] nopenothinghere@proton.me <nopenothinghere@proton.me>
-
-and the new key is:
 
 pub   ed25519/0xF1CB32F67E3302A1 2024-03-29 [SC]
       Key fingerprint = 8B3A 7489 0536 BAD5 0D93  76EB F1CB 32F6 7E33 02A1
@@ -82,8 +69,8 @@ Please let me know if you have any questions on how to verify.
 1. https://directory.fsf.org/wiki/Parcimonie
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCZ9aleQAKCRDxyzL2fjMC
-oVmWAP9IWPFx9h1DTPtxZxSBAXbdE5FmIBFRso/hPRpT84kckgEAo8CeU0/DsCmS
-GRMMkWI6LQMGwV+bNEYwAaHofnyW+go=
-=ppEo
+iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCaHs1WgAKCRDxyzL2fjMC
+odrwAPsFcupXWVRha5k2BOZUvjg+nY27IG+5XM8w+IupueHVcAD7BL7MFWuJ11lb
+Bqk3pSyp6hTxlSJ1lnItXwQYnGBL6AE=
+=NQBO
 -----END PGP SIGNATURE-----

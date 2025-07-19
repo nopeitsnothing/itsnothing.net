@@ -1,10 +1,8 @@
 ---
 layout: default
-title: $ whoami
+title: '$ whoami'
 permalink: /whoami
 ---
-
-### CEH v12 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
 
 > **_Neo**: *"There is no spoon?"*  
 > **_Spoon Boy**: *"…it is not the spoon that bends. It is only yourself."* - The Matrix
