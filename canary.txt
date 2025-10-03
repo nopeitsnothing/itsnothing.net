@@ -1,15 +1,14 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Sat Jul 19 02:03:40 AM EDT 2025
-
-CEH v12 | (ISC)² | Linux+ | Cisco CCNA | Security+ | PenTest+
+Thu Oct 2 08:27:48 PM EDT 2025 
 
 Owner: My blog - https://itsnothing.net.
 Admin: The Hitchhiker's Guide to Online Anonymity - https://anonymousplanet.org
+Network Admin: Privacy, Security and Anonymity [m] Space - https://matrix.to/#/#psa:anonymousplanet.net
 
 Latest bitcoin block hash:
-00000000000000000000b685887fe078cc9839294a91f8d38a3311864fc15418
+00000000000000000001c498d00190778e85724acf289b4b8d7fa7c9a759d5db
 
 I positively confirm I am in complete control of all my key material and domains. 
 
@@ -67,10 +66,11 @@ Please let me know if you have any questions on how to verify.
 
 0. https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
 1. https://directory.fsf.org/wiki/Parcimonie
+
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCaHs1WgAKCRDxyzL2fjMC
-odrwAPsFcupXWVRha5k2BOZUvjg+nY27IG+5XM8w+IupueHVcAD7BL7MFWuJ11lb
-Bqk3pSyp6hTxlSJ1lnItXwQYnGBL6AE=
-=NQBO
+iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCaN8ZsgAKCRDxyzL2fjMC
+ofzBAQDimr8x5ayDawh9zzrsf2B0JA0brmVlSjIaOUWAo1slOQD/XBm9zlO1PiNY
+OJfSVpO8jylfZ2WlSufER8l9UxuwhQM=
+=LWgP
 -----END PGP SIGNATURE-----
