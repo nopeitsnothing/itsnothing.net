@@ -1,14 +1,14 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Thu Oct 2 08:27:48 PM EDT 2025 
+Tue Apr 21 06:03:59 AM EDT 2026 
 
 Owner: My blog - https://itsnothing.net.
 Admin: The Hitchhiker's Guide to Online Anonymity - https://anonymousplanet.org
 Network Admin: Privacy, Security and Anonymity [m] Space - https://matrix.to/#/#psa:anonymousplanet.net
 
 Latest bitcoin block hash:
-00000000000000000001c498d00190778e85724acf289b4b8d7fa7c9a759d5db
+00000000000000000000dc62138da4946eca629f7d7ce1d97f277674864d1317
 
 I positively confirm I am in complete control of all my key material and domains. 
 
@@ -27,9 +27,13 @@ pub   ed25519/0xF1CB32F67E3302A1 2024-03-29 [SC]
       Key fingerprint = 8B3A 7489 0536 BAD5 0D93  76EB F1CB 32F6 7E33 02A1
 uid                   [ultimate] nopenothinghere@proton.me <nopenothinghere@proton.me>
 
+pub   ed448/0x77EEB38ED21240BE 2026-03-20 [SC] [expires: 2036-03-17]
+      Key fingerprint = 77EEB 38ED2 1240B E00E6 27002 76B2F 98D35 7B253 C17C2 F5E5B
+uid                   [ultimate] Architect (PQC Kyber Key) <echoskyking@pm.me>
+
 To fetch the full key, you can simply do:
 
-  gpg --keyserver keys.openpgp.org --recv-key 0xF1CB32F67E3302A1
+  gpg --import pgp.txt
 
 **
   Note: this keyserver is experimental.[0] I still have yet to add these keys
@@ -69,8 +73,10 @@ Please let me know if you have any questions on how to verify.
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCaN8ZsgAKCRDxyzL2fjMC
-ofzBAQDimr8x5ayDawh9zzrsf2B0JA0brmVlSjIaOUWAo1slOQD/XBm9zlO1PiNY
-OJfSVpO8jylfZ2WlSufER8l9UxuwhQM=
-=LWgP
+iMUFARYKAEUiIQV37rOO0hJAvgDmJwAnay+Y01eyU8F8L15bezdxrKuZ/gUCaedM
+RBsUgAAAAAAEAA5tYW51MiwyLjUrMS4xMiwyLDEAAAWOAcQNg9uelzK68ke349SJ
+0GJqxEEctVwEwa0OcJjDwgnskC7qtoT6yHq+mEGKBjDdL5Zs3NORIjHcpoABx363
+b0A1cvuufz0ONhf8tf74HRKk5wieqgo/p6q0/PpNVIbDgpuRkAzubS8rsVJb9FNX
+E+VGQi4LAA==
+=aWEc
 -----END PGP SIGNATURE-----

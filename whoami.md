@@ -7,10 +7,14 @@ permalink: /whoami
 > **_Neo**: *"There is no spoon?"*  
 > **_Spoon Boy**: *"…it is not the spoon that bends. It is only yourself."* - The Matrix
 
-Since around 2011, he has dedicated most of his free time to helping further his favorite open-source projects. You might know him from [Anonymous Planet](https://anonymousplanet.org/). He frequents the [Privacy, Security and Anonymity](https://matrix.to/#/#psa:anonymousplanet.net) space.
+Since around 2011, I have dedicated most of my free time to helping further my favorite open-source projects. You might know me from [Anonymous Planet](https://anonymousplanet.org/). I frequented the [Privacy, Security and Anonymity](https://matrix.to/#/#psa:anonymousplanet.net) Matrix space for a while, before it was defunct. It'll be back sometime soon.
 
-Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1)🔑  
-FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)
+Keyoxide: [ed25519/0xF1CB32F67E3302A1](https://keyoxide.org/8B3A74890536BAD50D9376EBF1CB32F67E3302A1)  
+FPR: [8B3A 7489 0536 BAD5 0D93 76EB F1CB 32F6 7E33 02A1](/pgp.txt)🔑
+
+I uploaded a Kyber key! I like to use this a lot, and it's quantum safe. If you know me at all, you know that's something I value a lot these days.
+
+FPR: [77EEB 38ED2 1240B E00E6 27002 76B2F 98D35 7B253 C17C2 F5E5B](/pgp.txt)🔑
 
 ---
 

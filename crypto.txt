@@ -1,11 +1,11 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-This is a signed summary of relevant cryptographic information for nopenothinghere.
+This is a signed summary of relevant cryptographic information.
 The latest version of this file is always located at:
   https://itsnothing.net/crypto.txt
 
-This information is current as of Thu Oct 2 08:22:24 PM EDT 2025.
+This information is current as of Tue Apr 21 06:02:27 AM EDT 2026.
 
 Contact
 =======
@@ -28,6 +28,15 @@ uid                   [ultimate] Nope Nothing (Anonymous Planet Contact) <no@ano
 uid                   [ultimate] Nope Nothing (Systems Administrator) <admin@itsnothing.net>
 ssb   cv25519/0x7F02B7DB19EAA7A0 2024-03-29 [E]
 
+Kyber key
+=========
+
+pub   ed448/0x77EEB38ED21240BE 2026-03-20 [SC] [expires: 2036-03-17]
+      Key fingerprint = 77EEB 38ED2 1240B E00E6 27002 76B2F 98D35 7B253 C17C2 F5E5B
+uid                   [ultimate] Architect (PQC Kyber Key) <echoskyking@pm.me>
+sub   ky1024_cv448/0xD6D1A175D1054A87 2026-03-20 [E] [expires: 2036-03-17]
+      Key fingerprint = D6D1A 175D1 054A8 7C574 80D5F 4349E 7371A DE6FC 8D53C 8D6B4
+
 The latest up to date key including signatures can be found at:
    https://itsnothing.net/pgp.txt
 
@@ -46,8 +55,10 @@ Session fingerprint
 053686ab7bbb2287dee2d9c1a87518ccc5c0dae76f5aa5d0b095293700c2eb730c
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSLOnSJBTa61Q2TduvxyzL2fjMCoQUCaN8XwQAKCRDxyzL2fjMC
-oYQgAQDtGZkvzZ4jctAbkkE1g5BoJHFowkCszsYFFgzUJnBo7AD/Tt8XHpjlPAl7
-LpjokTowR0iTl3o5bdLKPOmXvsItigc=
-=4zyg
+iMUFARYKAEUiIQV37rOO0hJAvgDmJwAnay+Y01eyU8F8L15bezdxrKuZ/gUCaedL
+bRsUgAAAAAAEAA5tYW51MiwyLjUrMS4xMiwyLDEAAIV/AciEAd8ZyDPhtOABl+oN
+278HrcO3KWZH4Q7AxXPAWDtnCZpNTA6VNOeE0i5mjYo0BMgtCPwPeMC5/IAByNYF
+ETuBTO4HvMIIOQo1/lgeLFtl98PfxvhobsrcQBbhvrwmSWK2MVSqcpzZRdI8qOIJ
+VWSodQccAA==
+=C6tv
 -----END PGP SIGNATURE-----
